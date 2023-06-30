@@ -8,5 +8,5 @@ The base model for the recommendation system in our process,- The coding process
 
 Model visualization:
 
-Patient Dashboard
+Patient Dashboard,
 Doctor Dashboard
